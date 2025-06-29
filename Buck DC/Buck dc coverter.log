@@ -1,0 +1,36 @@
+C:\Users\abhin\OneDrive\Desktop\Buck DC\Buck dc coverter.plt(2): Expected device instantiation or directive here.
+{
+^
+C:\Users\abhin\OneDrive\Desktop\Buck DC\Buck dc coverter.plt(3): Expected device instantiation or directive here.
+   Npanes: 1
+^^^^^^^^^^^^
+C:\Users\abhin\OneDrive\Desktop\Buck DC\Buck dc coverter.plt(4): Expected device instantiation or directive here.
+   {
+^^^^
+C:\Users\abhin\OneDrive\Desktop\Buck DC\Buck dc coverter.plt(5): Expected "}" here.
+      traces: 1 {524290,0,"V(vout)"}
+                       ^^^^^^^^^^^^^
+C:\Users\abhin\OneDrive\Desktop\Buck DC\Buck dc coverter.plt(5): Expected nodes here.
+      traces: 1 {524290,0,"V(vout)"}
+             ^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\abhin\OneDrive\Desktop\Buck DC\Buck dc coverter.plt(6): Expected subckt name here.
+      X: ('m',0,0,0.001,0.01)
+        ^^^^^^^^^^^^^^^^^^^^^
+C:\Users\abhin\OneDrive\Desktop\Buck DC\Buck dc coverter.plt(7): Expected nodes here.
+      Y[0]: (' ',1,-0.9,0.9,9.9)
+           ^^^^^^^^^^^^^^^^^^^^^
+C:\Users\abhin\OneDrive\Desktop\Buck DC\Buck dc coverter.plt(8): Expected nodes here.
+      Y[1]: ('_',0,1e+308,0,-1e+308)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\abhin\OneDrive\Desktop\Buck DC\Buck dc coverter.plt(9): Expected node name here.
+      Volts: (' ',0,0,1,-0.9,0.9,9.9)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\abhin\OneDrive\Desktop\Buck DC\Buck dc coverter.plt(9): Expected device instantiation or directive here.
+      Volts: (' ',0,0,1,-0.9,0.9,9.9)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\abhin\OneDrive\Desktop\Buck DC\Buck dc coverter.plt(11): Expected device instantiation or directive here.
+   }
+^^^^
+C:\Users\abhin\OneDrive\Desktop\Buck DC\Buck dc coverter.plt(12): Expected device instantiation or directive here.
+}
+^
